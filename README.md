@@ -49,3 +49,5 @@
 
 ### 🤝 Teamwork:
 ![preview](https://github.com/AleksPt/EpicRPS/blob/develop/teamwork1.png)
+![preview](https://github.com/AleksPt/EpicRPS/blob/develop/teamwork2.png)
+![preview](https://github.com/AleksPt/EpicRPS/blob/develop/teamwork3.png)
