@@ -37,6 +37,7 @@
 - Минимальный таргет iOS 15.0
 - MVC архитектура
 - SnapKit
+- Swift Package Manager
 
 ### 📦 Ресурсы:
 - [**Макет Figma**](https://www.figma.com/design/Bsnn6bqz2s7nOjxFt5c32n/Challenge-%E2%84%961-%22RPS%22?t=h5u3CfgCq50az7DR-1)
