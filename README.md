@@ -37,8 +37,8 @@
 - MVC архитектура
 - SnapKit
 
-### 🖼️ Дизайн:
-- [**Figma**](https://www.figma.com/design/Bsnn6bqz2s7nOjxFt5c32n/Challenge-%E2%84%961-%22RPS%22?t=h5u3CfgCq50az7DR-1)
+### 📦 Ресурсы:
+- [**Дизайн**](https://www.figma.com/design/Bsnn6bqz2s7nOjxFt5c32n/Challenge-%E2%84%961-%22RPS%22?t=h5u3CfgCq50az7DR-1)
 
 ### 📸 Скриншоты:
 | ![preview](https://github.com/AleksPt/EpicRPS/blob/develop/1.png) |![preview](https://github.com/AleksPt/EpicRPS/blob/develop/2.png) | ![preview](https://github.com/AleksPt/EpicRPS/blob/develop/3.png)
