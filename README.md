@@ -1,7 +1,7 @@
 # Epic RPC
 
 ### 📺 Демо:
-![preview](https://github.com/AleksPt/EpicRPS/blob/develop/demonstration.gif)
+![preview](https://github.com/AleksPt/EpicRPS/blob/develop/Media/demonstration.gif)
 
 ### 👨‍💻 Команда:
 <p align="left"> 
@@ -43,13 +43,13 @@
 - [**Макет Figma**](https://www.figma.com/design/Bsnn6bqz2s7nOjxFt5c32n/Challenge-%E2%84%961-%22RPS%22?t=h5u3CfgCq50az7DR-1)
 
 ### 📸 Скриншоты:
-| ![preview](https://github.com/AleksPt/EpicRPS/blob/develop/1.png) |![preview](https://github.com/AleksPt/EpicRPS/blob/develop/2.png) | ![preview](https://github.com/AleksPt/EpicRPS/blob/develop/3.png)
+| ![preview](https://github.com/AleksPt/EpicRPS/blob/develop/Media/1.png) |![preview](https://github.com/AleksPt/EpicRPS/blob/develop/Media/2.png) | ![preview](https://github.com/AleksPt/EpicRPS/blob/develop/Media/3.png)
 |-------|----------|---------|
-| ![preview](https://github.com/AleksPt/EpicRPS/blob/develop/4.png) |![preview](https://github.com/AleksPt/EpicRPS/blob/develop/5.png) | ![preview](https://github.com/AleksPt/EpicRPS/blob/develop/6.png)
-| ![preview](https://github.com/AleksPt/EpicRPS/blob/develop/7.png) |![preview](https://github.com/AleksPt/EpicRPS/blob/develop/8.png) | ![preview](https://github.com/AleksPt/EpicRPS/blob/develop/9.png)
-| ![preview](https://github.com/AleksPt/EpicRPS/blob/develop/10.png) |![preview](https://github.com/AleksPt/EpicRPS/blob/develop/11.png) | ![preview](https://github.com/AleksPt/EpicRPS/blob/develop/12.png)
+| ![preview](https://github.com/AleksPt/EpicRPS/blob/develop/Media/4.png) |![preview](https://github.com/AleksPt/EpicRPS/blob/develop/Media/5.png) | ![preview](https://github.com/AleksPt/EpicRPS/blob/develop/Media/6.png)
+| ![preview](https://github.com/AleksPt/EpicRPS/blob/develop/Media/7.png) |![preview](https://github.com/AleksPt/EpicRPS/blob/develop/Media/8.png) | ![preview](https://github.com/AleksPt/EpicRPS/blob/develop/Media/9.png)
+| ![preview](https://github.com/AleksPt/EpicRPS/blob/develop/Media/10.png) |![preview](https://github.com/AleksPt/EpicRPS/blob/develop/Media/11.png) | ![preview](https://github.com/AleksPt/EpicRPS/blob/develop/Media/12.png)
 
 ### 🤝 Teamwork:
-![preview](https://github.com/AleksPt/EpicRPS/blob/develop/teamwork1.png)
-![preview](https://github.com/AleksPt/EpicRPS/blob/develop/teamwork2.png)
-![preview](https://github.com/AleksPt/EpicRPS/blob/develop/teamwork3.png)
+![preview](https://github.com/AleksPt/EpicRPS/blob/develop/Media/teamwork1.png)
+![preview](https://github.com/AleksPt/EpicRPS/blob/develop/Media/teamwork2.png)
+![preview](https://github.com/AleksPt/EpicRPS/blob/develop/Media/teamwork3.png)
